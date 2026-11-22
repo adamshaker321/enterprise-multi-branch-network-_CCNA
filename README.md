@@ -1,4 +1,5 @@
 # Enterprise Multi-Branch Network Design & Implementation
+<img width="1919" height="1017" alt="network" src="https://github.com/user-attachments/assets/eeeb21a3-9a24-43b6-afcd-1e93eae298c3" />
 
 ## Project Overview
 
